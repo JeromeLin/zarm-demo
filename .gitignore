@@ -1,0 +1,14 @@
+_book
+.DS_Store
+.idea
+.vscode
+.history
+.prettierrc.yaml
+*.log
+*.iml
+node_modules
+package-lock.json
+
+# bundle files
+assets
+dist
